@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nandhan0906/DAA_HA/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Nandhan0906/DAA_HA/tree/master/0201-bitwise-and-of-numbers-range) |
 <!---LeetCode Topics End-->
