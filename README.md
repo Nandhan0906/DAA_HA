@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Nandhan0906/DAA_HA/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Nandhan0906/DAA_HA/tree/master/0162-find-peak-element) |
 ## String
 |  |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Nandhan0906/DAA_HA/tree/master/0051-n-queens) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Nandhan0906/DAA_HA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
