@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nandhan0906/DAA_HA/tree/master/0001-two-sum) |
 | [0051-n-queens](https://github.com/Nandhan0906/DAA_HA/tree/master/0051-n-queens) |
 | [0162-find-peak-element](https://github.com/Nandhan0906/DAA_HA/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Nandhan0906/DAA_HA/tree/master/0179-largest-number) |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nandhan0906/DAA_HA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Nandhan0906/DAA_HA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
