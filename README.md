@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Nandhan0906/DAA_HA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nandhan0906/DAA_HA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nandhan0906/DAA_HA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Nandhan0906/DAA_HA/tree/master/0027-remove-element) |
 | [0051-n-queens](https://github.com/Nandhan0906/DAA_HA/tree/master/0051-n-queens) |
 | [0162-find-peak-element](https://github.com/Nandhan0906/DAA_HA/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Nandhan0906/DAA_HA/tree/master/0179-largest-number) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nandhan0906/DAA_HA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Nandhan0906/DAA_HA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nandhan0906/DAA_HA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
